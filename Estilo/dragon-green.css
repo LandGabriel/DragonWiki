@@ -1,0 +1,151 @@
+.container-g {
+    background-image: url('Imagens/green2.png');
+    font-size: large;
+    text-align: center;
+    width: 100%;
+    display: block;
+    background-size: cover;
+    max-width: 2200%;
+    height: auto;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+    color: black;
+    
+}
+
+.tittle-dragon-g {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.p-dragonf {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold; 
+    margin-bottom: 5px;
+    color: #b6b4b4;
+}
+
+.verde {
+   width: 65vh;
+   height: auto; 
+    border: solid 5px #111010;
+    position: relative;
+    margin-bottom: 30px;
+  
+}
+.green{
+    top: 0;
+    left: 0;
+    z-index: -1; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+.container-g2 {
+    font-size: large;
+    text-align: center;
+    margin-top: 10px; 
+    height: auto;
+    display: block;
+    padding: 5px;
+}
+
+.description-g {
+ color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px;
+    margin: px;
+}
+
+.text-green {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    text-align: justify;
+    margin-top: 10px; 
+    display: block;
+    max-width: 97%;
+}
+
+.text-green2{
+    font-size: 23px;
+    font-style: italic;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(to right, #e4dcdc, #ffffff);
+    left: 1050px;
+    max-width: 60%; 
+    right: 300px;
+    bottom: 20px;
+}
+
+
+.h14 {
+    position: relative;
+    bottom: 190px;
+}
+
+.character2 {
+    background-color: #8b8b8b;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    width: 35%;
+    height: 70px;
+    bottom: 200px;
+    font-family: 'Press Start 2P', cursive;
+    color: #fff;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    position: relative;
+    letter-spacing: 6px; 
+    
+}
+.character2:hover {
+    background-color: #8778dd;
+}
+
+.line2{
+    width: 40px;
+    height: 30px;
+    border-radius: 6px;
+    margin-top: 5px;
+    font-size: 20px;
+    border: solid 3px;
+ 
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 25px;
+    }
+
+.filled3 {
+    width: 20px;
+    height: 20px;
+ 
+  }
+.attribute2 {
+    margin-bottom: 20px;
+}
+
+.attribute-bar2 {
+    display: flex;
+    align-items: center;
+}
+
+.attribute-bar2 div {
+    width: 20px; 
+    height: 20px;
+    background-color: #e9e9e9;
+    margin-right: 1px;
+}

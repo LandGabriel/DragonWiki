@@ -1,0 +1,39 @@
+.curiosity-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.his {
+    max-width: 80%; 
+    margin-right: 20px;
+    border:solid 5px rgb(173, 172, 172);
+    
+}
+
+.curiosity {
+    max-width: 50%; 
+    background-color: #e4dcdc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px ;
+    margin: 0;
+    border-right: solid 4px black;
+   
+}
+
+li {
+    margin-bottom: 10px; 
+ 
+}
+
+strong {
+    font-weight: bold;
+    
+}
+.h17{
+    border-bottom: solid;
+}
+

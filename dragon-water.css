@@ -1,0 +1,153 @@
+
+.container-a {
+    background-image: url('Imagens/aqua2.png');
+    top: 0;
+    left: 0;
+    background-size: cover; 
+    z-index: -1; 
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    height: auto;
+    display: block;
+    
+}
+
+.azul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover; 
+    z-index: -1; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container-g3 {
+    font-size: large;
+    text-align: center;
+    margin-top: 10px; 
+    height: auto;
+    display: block;
+}
+.tittle-dragon-ga {
+    color: rgb(250, 249, 249);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.p-dragona {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold; 
+    margin-bottom: 5px;
+    color: #faf5f5;
+}
+
+.azul {
+    width: 67vh;
+    height: auto;
+    border: solid 5px #111010;
+    position: relative;
+    margin-bottom: 30px;
+}
+.character3 {
+    background-color: #8b8b8b;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border: solid 4px;
+    border-radius: 50px;
+    width: 40%;
+    height: 70px;
+    bottom: 160px;
+    font-family: 'Press Start 2P', cursive;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    position: relative;
+    letter-spacing: 4px; 
+    }
+
+    .h15 {
+        position: relative;
+        bottom: 150px;
+    }
+
+    .attribute3 {
+        margin-right: 12px;
+    }
+    
+    label {
+        font-weight: bold;
+        margin-bottom: 5px;
+        font-size: 25px;
+        }
+     
+            
+.description-a {
+    background-color: #e4dcdc;
+    margin-top: 20px;
+    padding: 10px;
+    height: auto;
+    display: block;
+}
+
+.text-azul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    text-align: justify;
+    margin-top: 10px; 
+    display: block;
+    max-width: 97%;
+}
+
+.text-azul2{
+    font-size: 23px;
+    font-style: italic;
+    margin-right: 50px;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(to right, #e4dcdc, #ffffff);
+    position: relative;
+    left: 1050px;
+    width: 50vw; 
+    height: auto; 
+    max-width: 20%px; 
+    max-height: 500px; 
+    right: 200px;
+ bottom: 0px;
+}
+
+.character3:hover {
+    background-color: #8778dd;
+}
+
+.attribute3 {
+    margin-bottom: 20px;
+}
+
+.attribute-bar3 {
+    display: flex;
+    align-items: center;
+}
+
+.attribute-bar3 div {
+    width: 20px; 
+    height: 20px;
+    background-color: #eaeeee;
+    margin-right: 5px;
+}
+
+
+
+
+
