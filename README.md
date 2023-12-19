@@ -1,7 +1,7 @@
 ![Logo do projeto](https://raw.githubusercontent.com/LandGabriel/DragonWiki/main/Imagens/DragonW.png)
 
 # Dragon Wikipedia
-:mag_right: [Veja o projeto](https://landgabriel.github.io/WikiDragon)
+:mag_right: [Veja o projeto](https://landgabriel.github.io/DragonWiki/)
 ## 🔥 Introdução
 Wikipedia de dragões com lore e histórias fictícias.
 
